@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Deer's github stats](https://github-readme-stats.vercel.app/api?username=Deer&show_icons=true&theme=radical)](https://github.com/Silver-Deer/github-readme-stats)
+![Deer's github stats](https://github-readme-stats.vercel.app/api?username=Silver-Deer&show_icons=true&theme=radical)
