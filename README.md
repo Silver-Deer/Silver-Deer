@@ -1,6 +1,6 @@
 # My Profile
 
-* 대구소프트웨어마이스터고등학교 5기 안드로이드 개발자
+## 저는 대구소프트웨어마이스터고등학교 5기 안드로이드 개발자입니다!
 
  [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Silver-Deer)](https://github.com/Silver-Deer) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100027739966709)](https://www.facebook.com/profile.php?id=100027739966709) 
  
